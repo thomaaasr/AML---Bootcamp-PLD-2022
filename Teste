@@ -1,0 +1,43 @@
+# AML---Bootcamp-PLD-2022
+Teste de qualificação – Vaga analista de desenvolvimento / implantação PLD 2022
+
+Questões
+A – Com suas palavras explique o que é lavagem de dinheiro.
+Criar uma forma de esconder a origem de valores ilícitos e transforma-los em lícitos.
+Exemplo: Simular um serviço no qual pode não existir na real e dar entrada dos valores como se tivesse de fato existido.
+
+B – O que é Cartão de Pagamento do Governo Federal (CPGF), e qual a sua finalidade.
+É um meio de pagamento que proporciona à Administração Pública mais agilidade, controle e modernidade na gestão de recursos.
+Finalidade: pagar despesas excepcionais. O que se pretende é evitar erros, subsidiando o servidor com informações essenciais para melhorar a qualidade do gasto público.
+
+C – Quem pode utilizar o CPGF?
+O Governo.
+
+D – Qual a URL onde é possível fazer o download dos arquivos do CPGF?
+https://www.portaltransparencia.gov.br/download-de-dados/cpgf
+
+E – Qual a URL da paǵina com a descrição dos campos (ou dicionário de dados) da CPGF?
+https://www.portaldatransparencia.gov.br/pagina-interna/603412-dicionario-de-dados-sancoes-ceis
+
+F – É possível identificar o nome e o documento do portador do CPGF, em todas as
+movimentações ou há movimentações onde não é possível identificar o portador?
+O CPGF é emitido em nome da Unidade Gestora, com identificação do portador.
+Qualquer pessoa pode ter acesso a dados detalhados das despesas realizadas com os cartões de pagamento, exceto aos dados relativos a gastos sigilosos, fortalecendo a atuação do controle da sociedade.
+
+G – É possível identificar o Órgão do portador do CPGF?
+Sim. O CPGF é emitido em nome da Unidade Gestora, com identificação do portador.
+
+H - Qual o nome do Órgão cujo código é 20402?
+Código do Órgão : 203.001/20402 – Agência Espacial Brasileira – AEB
+
+I - É possível identificar o Nome e Documento (CNPJ) dos favorecidos pela utilização do
+CPGF?
+Sim.
+
+J – É possível identificar a data e o valor das movimentações financeiras do CPGF, em
+todas as movimentações? Ou há movimentações onde não é possível identificar as datas e
+ou valores?
+Qualquer pessoa pode ter acesso a dados detalhados das despesas realizadas com os cartões de pagamento, exceto aos dados relativos a gastos sigilosos, fortalecendo a atuação do controle da sociedade.
+
+
+A parte do código, confesso que não tenho conhecimento suficiente para desenvolver. Pois aprendi pouca coisa na faculdade e o pouco que aprendi foi em Java.
